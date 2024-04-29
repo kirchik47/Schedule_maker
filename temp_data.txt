@@ -1,0 +1,1 @@
+  C:/Users/kirch/pythonProject/final_project/json_files/teachers.json C:/Users/kirch/pythonProject/final_project/json_files/subjects.json C:/Users/kirch/pythonProject/final_project/json_files/classes.json
