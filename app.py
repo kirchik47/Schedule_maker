@@ -14,9 +14,10 @@ import json
 import os
 from subprocess import call
 import pandas
+from pathlib import Path
 
 
-project_dir = "C:\\Users\\kirch\\pythonProject\\final_project"
+project_dir = Path(__file__).parent.resolve()
 class ShowTable(QtWidgets.QMainWindow):
     # full_sch_class = {}
     def __init__(self, full_sch_class):
